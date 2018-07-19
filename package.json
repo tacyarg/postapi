@@ -1,0 +1,29 @@
+{
+  "name": "postapi",
+  "version": "1.0.0",
+  "description": "simple api request module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tacyarg/postapi.git"
+  },
+  "keywords": [
+    "post",
+    "request",
+    "promise"
+  ],
+  "author": "tacyarg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tacyarg/postapi/issues"
+  },
+  "homepage": "https://github.com/tacyarg/postapi#readme",
+  "dependencies": {
+    "request": "^2.87.0",
+    "request-promise": "^4.2.2",
+    "url-join": "^4.0.0"
+  }
+}
