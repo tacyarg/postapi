@@ -1,5 +1,5 @@
 {
-  "name": "postapi",
+  "name": "simplepostapi",
   "version": "1.0.1",
   "description": "simple api request module",
   "main": "index.js",
